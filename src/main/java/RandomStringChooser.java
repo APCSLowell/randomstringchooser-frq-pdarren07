@@ -17,7 +17,7 @@ public class RandomStringChooser
     if (valuesRemaining == 0){
       return "NONE";
     }
-    int index = (int) ( Math.random() valuesRemaining);
+    int index = (int) ( Math.random() * valuesRemaining);
     String selected = values [index];
     values[index] = values [ valuesRemaining - 1];
     valuesRemaining--;
