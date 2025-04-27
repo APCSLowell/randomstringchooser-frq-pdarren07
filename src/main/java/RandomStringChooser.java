@@ -1,4 +1,4 @@
-import java.util.;
+import java.util.*;
 public class RandomStringChooser
 {
   / to be implemented in part (a) /
