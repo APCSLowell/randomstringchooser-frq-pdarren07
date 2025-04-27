@@ -1,7 +1,7 @@
 import java.util.*;
 public class RandomStringChooser
 {
-  / to be implemented in part (a) /
+  /*to be implemented in part (a)*/
   private String [] values;
   private int valuesRemaining;
 
